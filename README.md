@@ -11,23 +11,16 @@ a tutor that teaches better documentation, a critic that enforces rigor, and a s
 
 ---
 
-## What the Boyle System Is (and Is Not)
-
-**It is not:**
-
-* A form
-* An HR reporting tool
-* A compliance spreadsheet
-* A Notion replacement
-
-**It is:**
+## What the Boyle System Is
 
 * A *scientific research notebook*
 * A *source-grounded tutor*
 * A *methodological critic*
 * A *practical operating system for cloud-based work*
+* An HR reporting tool
+* A compliance spreadsheet
 
-Auditing happens *because* the thinking is sound — not the other way around.
+Auditing emerges because evidence is produced through the recording of real work — not the other way around.
 
 ---
 
