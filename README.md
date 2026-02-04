@@ -1,5 +1,10 @@
 ## The Boyle System
 
+The Boyle System is a scientific notebook approach that uses NotebookLM as an active cognitive partner rather than a passive archive. Named after Robert Boyle's principles of traceable, repeatable, and intelligible knowledge, it positions NotebookLM in three simultaneous roles: a tutor that teaches proper documentation by referencing degree requirements and project charters, a critic that challenges vague or incomplete entries, and an operational guide that treats cloud credentials and API keys as first-class research artifacts rather than administrative noise. The core insight is that in modern cloud-based research, you cannot reproduce results without reproducing access—environment variables, authentication steps, and API usage are experimental context, not bureaucracy.
+
+Volunteers interrogate their own work by asking NotebookLM whether their logs meet reproducibility standards. This teaches research thinking rather than template-filling. Because the system enforces method-focused documentation, records failures as data, and grounds all claims in uploaded sources, auditing and compliance emerge naturally as byproducts rather than goals. The volunteer learns to think like a researcher who externalizes thinking, preserves methods, and creates knowledge that survives turnover—exactly what Boyle intended when he made the notebook the laboratory itself.
+
+
 **A Scientific Notebook That Teaches, Critiques, and Verifies Work**
 
 The **Boyle System** is named after **Robert Boyle**, who is widely credited with formalizing **scientific note-taking** as a disciplined practice. Boyle insisted that knowledge only counts if it is **traceable, repeatable, and intelligible to others**.
